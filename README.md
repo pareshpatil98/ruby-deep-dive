@@ -24,10 +24,16 @@ A practical journey to master Ruby through experiments, coding challenges, and r
 ## Progress
 
 ### Module 1: Ruby Object Model
-
-- [x] Topic 1: self and class
-- [ ] Topic 2: superclass
-- [ ] Topic 3: ancestors
+- [x] Topic 1: self, Object and `.class`
+- [x] Topic 2: Superclass Chain
+- [x] Topic 3: Object vs BasicObject
+- [x] Topic 4: `include`, `extend` and `prepend`
+- [x] Topic 5: `super` and `super()`
+- [x] Topic 6: Singleton Methods and Eigenclass
+- [x] Topic 7: Method Lookup Chain
+- [x] Topic 8: Constant Lookup
+- [x] Topic 9: Class Variables vs Class Instance Variables
+- [x] Topic 10: `attr_accessor` Internals
 
 ---
 
